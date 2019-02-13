@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Contact xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Bola</Name>
+  <EMail>bola@mismascotas.com</EMail>
+  <Telephone />
+  <Mobile />
+  <Fax />
+  <Address>La casa de su dueño
+</Address>
+  <Comments>Un poco revoltosa y juguetona, extremadamente traviesa.</Comments>
+  <ImageURL>image/Bola.jpg</ImageURL>
+</Contact>

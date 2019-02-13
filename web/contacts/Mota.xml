@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Mota</Name>
+  <EMail>mota@mismascotas.com</EMail>
+  <Telephone />
+  <Mobile />
+  <Fax />
+  <Address>La casa de su dueño</Address>
+  <Comments />
+  <ImageURL>image/Mota.jpg</ImageURL>
+</Contact>
